@@ -24,7 +24,7 @@
    then only the page with localhost:3001
 
   ## Link
-   Please click [here]() to access the deployed site.
+   Please click [here](https://rocky-tundra-95754.herokuapp.com/) to access the deployed site.
 
   ## Screenshot
   
