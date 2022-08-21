@@ -19,7 +19,7 @@
    ```
    then run the program with the command 
    ```
-   node start
+   npm start
    ```
    then only the page with localhost:3001
 
@@ -27,4 +27,5 @@
    Please click [here](https://rocky-tundra-95754.herokuapp.com/) to access the deployed site.
 
   ## Screenshot
-  
+  ![image](https://user-images.githubusercontent.com/99180884/185789529-ce8b9148-1f09-4beb-8181-c14d24b1fc22.png)
+
